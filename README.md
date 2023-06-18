@@ -1,7 +1,6 @@
 # OIBSIP
 Web Development Projects
 
-# PREVIEW
 This Repository Holds Three Exciting Projects: Todo Web App, Calculator, and Tribute Page
 
 
